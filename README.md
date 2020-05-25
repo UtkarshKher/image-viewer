@@ -1,3 +1,5 @@
+# # Cannot complete the project on time, was only able to implement login page and Home page. Have tried using promise API concept instead of XHR for learning purpose, folder structure used - https://reactjs.org/docs/faq-structure.html 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
